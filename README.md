@@ -1,6 +1,6 @@
 # SQL_Exploratory_Data_Analysis
 
-Opérations utilisées: __Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.__ 
+Opérations utilisées: __Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.__  
 On a effectué une analyse exploratoire des données du Covid19 pour: 
 
 -Estimer la probabilité de mourir si vous contractez le covid dans votre pay 
