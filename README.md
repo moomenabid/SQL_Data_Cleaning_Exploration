@@ -1,4 +1,4 @@
-# SQL_Exploratory_Data_Analysis
+# SQL_Exploratory_Data_Analysi
 
 Opérations utilisées: __Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.__  
 On a effectué une analyse exploratoire des données du Covid19 (https://ourworldindata.org/covid-deaths) pour: 
